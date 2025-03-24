@@ -17,7 +17,7 @@ NIST SP 800-53 Rev. 5 provides a comprehensive catalog of security and privacy c
 
 ## Control-to-Regulation Mapping
 
-To create defensible security architectures, it's essential to understand how specific NIST controls align with statutory language in data protection laws. Below is a selection of NIST controls mapped to their relevant regulatory counterparts under GDPR, CCPA, and HIPAA. This mapping is not one-to-one but rather based on functional equivalency and risk alignment.
+It's essential to understand how specific NIST controls align with statutory language in data protection laws. Below is a selection of NIST controls mapped to their relevant regulatory counterparts under GDPR, CCPA, and HIPAA. This mapping is not one-to-one but rather based on functional equivalency and risk alignment.
 
 | NIST Control ID | Control Title | GDPR Mapping | CCPA/CPRA | HIPAA Security Rule |
 |----------------|---------------|--------------|-----------|----------------------|
